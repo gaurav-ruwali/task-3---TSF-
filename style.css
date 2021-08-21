@@ -1,0 +1,58 @@
+html{
+    background-image:url(https://images.unsplash.com/photo-1612401104473-a79cb1da9351?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80);
+    background-size:cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100%;
+}
+.heading{
+    font-family:'Segoe UI', Tahoma,  Verdana, sans-serif, cursive;
+    text-align:center;
+    font-size:30px;
+}
+.heading h2{
+    margin-top:5%;
+    margin-top:10px;
+    text-align: center;
+}
+.mssg{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive;
+    text-align:center;
+    margin-bottom:30px;
+    font-size: 20px;    
+}
+button:hover{
+    background-color:rgb(76, 186, 230);
+}
+button{
+    border-radius: 50px;
+    padding:8px;
+    border:3px solid rgb(252, 2, 2);
+   
+
+}
+.contact{
+    font-size: cursive;
+}
+.btn{
+    margin:0;
+    position:relative;
+    top:100%;
+    margin-bottom:20px;
+    text-align: center;
+}
+.whole{
+    box-shadow: 0 8px 32px 0 rgba(41, 83, 13, 0.37);
+    background-color: rgb(33, 233, 223);
+    border-radius: 50px;
+    border: 1px solid rgba(240, 42, 190, 0.726);   
+    position:absolute;
+    left:40%;
+    padding: 70px 0;
+}
+body{
+    position: absolute;
+    padding: 160px 0;
+    left:17%;
+    width:50%;
+}   
